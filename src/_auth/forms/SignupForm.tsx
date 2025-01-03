@@ -1,3 +1,8 @@
+import { Button } from '../../components/ui/button'
 export function SignupForm({}) {
-  return <div>SignupForm</div>
+  return (
+    <div>
+      <Button>Click me</Button>
+    </div>
+  )
 }
